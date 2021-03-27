@@ -8,7 +8,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-John%20Doe-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/mihaiblandu/)](https://www.linkedin.com/in/mihaiblandu/)
 [![GitHub followers](https://img.shields.io/github/followers/mihaiblandu?label=Follow&style=social)](https://github.com/mihaiblanbdu/?tab=follow)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=JohnChangUK)](https://github.com/mihaiblanbdu)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mihaiblandu)](https://github.com/mihaiblanbdu)
 <div>
  
 <p>
@@ -42,7 +42,7 @@ Experienced software engineer with expertise in building applications on the JVM
 <br/><br/>
 
 
-![John's github stats](https://github-readme-stats.vercel.app/api?username=mihaiblandu&show_icons=true)
+![Mchael's github stats](https://github-readme-stats.vercel.app/api?username=mihaiblandu&show_icons=true)
 <br />
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mihaiblandu)
