@@ -6,7 +6,7 @@
 
 ### Welcome to my GitHub 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-John%20Doe-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/mihaiblandu/)](https://www.linkedin.com/in/mihaiblandu/)
+[![Linkedin Badge](https://img.shields.io/badge/-Mihai%20Blandu-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/mihaiblandu/)](https://www.linkedin.com/in/mihaiblandu/)
 [![GitHub followers](https://img.shields.io/github/followers/mihaiblandu?label=Follow&style=social)](https://github.com/mihaiblanbdu/?tab=follow)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mihaiblandu)](https://github.com/mihaiblanbdu)
 <div>
