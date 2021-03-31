@@ -19,7 +19,7 @@ Experienced software engineer with expertise in building applications on the JVM
 <div><p>My profile overview: </p></div>
 
 ### Tech Stack
-
+<code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></a></code>
 <code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
 <code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></a></code>
 <code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
